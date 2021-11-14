@@ -1,0 +1,14 @@
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\bin\Debug\netcoreapp3.1\adress.exe
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\bin\Debug\netcoreapp3.1\adress.deps.json
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\bin\Debug\netcoreapp3.1\adress.runtimeconfig.json
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\bin\Debug\netcoreapp3.1\adress.runtimeconfig.dev.json
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\bin\Debug\netcoreapp3.1\adress.dll
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\bin\Debug\netcoreapp3.1\adress.pdb
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\obj\Debug\netcoreapp3.1\adress.csproj.AssemblyReference.cache
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\obj\Debug\netcoreapp3.1\adress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\obj\Debug\netcoreapp3.1\adress.AssemblyInfoInputs.cache
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\obj\Debug\netcoreapp3.1\adress.AssemblyInfo.cs
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\obj\Debug\netcoreapp3.1\adress.csproj.CoreCompileInputs.cache
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\obj\Debug\netcoreapp3.1\adress.dll
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\obj\Debug\netcoreapp3.1\adress.pdb
+C:\Users\davud_b3wsv9l\source\repos\adress\adress\obj\Debug\netcoreapp3.1\adress.genruntimeconfig.cache
